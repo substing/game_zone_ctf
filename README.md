@@ -160,7 +160,7 @@ So we are now forwarding this service to ourselves.
 
 Check the browser!
 
-![s13](images/s13.png) Log in with the same username and password as we did for SSH. (Please don't re-use passwords in the real world)
+![s13](images/s13.png) Log in with the same username and password as we did for SSH. (Please don't reuse passwords in the real world)
 
 ![s14](images/s14.png)
 
